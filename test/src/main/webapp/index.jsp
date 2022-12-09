@@ -4,14 +4,14 @@
 <html>
 <head>
 <meta charset="EUC-KR">
-<title>¤¾¤·¤¾¤·</title>
+<title>ã…Žã…‡ã…Žã…‡</title>
 </head>
 <body>
-	ÁöÈñ :
-	³ª¸® :
-	¼±¿ì :
-	µ¿¹Î : ³ª´Ù.
-	¿¹Áö :
-	À¯¸® :¾È³çÇÏ¼¼¿ä
+	ì§€í¬ :
+	ë‚˜ë¦¬ :
+	ì„ ìš° :
+	ë™ë¯¼ : í’€í’€í’€í‘¸ë£¨í‘¸ë£¨ã…œã…í’’ã„´ã…‡í‘¸
+	ì˜ˆì§€ :
+	ìœ ë¦¬ :ì•ˆë…•í•˜ì„¸ìš”
 </body>
 </html>
